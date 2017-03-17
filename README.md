@@ -12,7 +12,7 @@ directory_list = [
     "C:\Program Files (x86)\RedRocket\AnimalWorld\Logs"
 ]
 
-Call the routine:
+Call the routine or better yet, put it in a cron for daily or weekly activation:
 > python sweep.py
 
 
